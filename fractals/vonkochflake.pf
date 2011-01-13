@@ -1,0 +1,23 @@
+(dp0
+S'length'
+p1
+I250
+sS'angle'
+p2
+I60
+sS'name'
+p3
+S'Von Koch snowflake'
+p4
+sS'Dgen'
+p5
+S'D-D++D-D'
+p6
+sS'axiom'
+p7
+S'D++D++D++'
+p8
+sS'divisor'
+p9
+I3
+s.

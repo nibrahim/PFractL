@@ -1,0 +1,26 @@
+(dp0
+S'length'
+p1
+I250
+sS'angle'
+p2
+I45
+sS'name'
+p3
+S'Cesaro curve'
+p4
+sS'Rgen'
+p5
+S'+L--L+'
+p6
+sS'maxlevel'
+p7
+I15
+sS'axiom'
+p8
+S'R'
+p9
+sS'divisor'
+p10
+F1.41412
+s.
